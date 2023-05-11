@@ -4,6 +4,6 @@
 
 # Getting Started
 1. Download a ROM of Pokemon Emerald and place it in the root directory of the program
-2, Run the program from the command line using python randomizer.py
+2. Run the program from the command line using python randomizer.py
 3. Follow the prompts to select which aspects of the game to randomize
 4. The randomized ROM will be outputted to a new file in the root directory of the program
